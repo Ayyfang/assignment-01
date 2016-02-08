@@ -1,3 +1,4 @@
+//Credit to Ben Blazak
 #include <iostream>;
 using std::cout;
 using std::cin;
